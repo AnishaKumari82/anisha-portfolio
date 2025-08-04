@@ -29,7 +29,7 @@ A visually immersive and interactive 3D personal portfolio website built using *
 
 ## 🖼️ Screenshots
 
-### 🔹 Homepage (Desktop View)
+### (Desktop View)
 ![Homepage](<img width="1884" height="819" alt="image" src="https://github.com/user-attachments/assets/c13fce18-5a5d-4fec-9437-443900b6ef53" />)
 
 ![Overview](<img width="1172" height="790" alt="image" src="https://github.com/user-attachments/assets/76f9aca5-6a65-4016-ae9c-c9f234d92bec" />)
@@ -49,15 +49,5 @@ A visually immersive and interactive 3D personal portfolio website built using *
 
 
 
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
