@@ -1,42 +1,69 @@
 # 🌐 Anisha's 3D Portfolio Website
 
-A visually immersive and interactive 3D personal portfolio website built using **React**, **Vite**, **Three.js**, and **Tailwind CSS**. This website showcases my skills, projects, and achievements as a passionate Computer Science & Information Technology student.
+A visually immersive and interactive 3D personal portfolio website built using **React**, **Vite**, **Three.js**, and **Tailwind CSS**. This site showcases my projects, skills, and achievements as a passionate Computer Science & Information Technology student.
 
 ---
 
 ## 🚀 Tech Stack
 
-- **React** – UI library for building component-based interfaces
-- **Vite** – Fast and modern frontend build tool
-- **Three.js** – JavaScript 3D library for interactive visuals
-- **@react-three/fiber** – React renderer for Three.js
-- **Tailwind CSS** – Utility-first CSS framework for rapid styling
+- ⚛️ **React** – Component-based frontend framework  
+- ⚡ **Vite** – Lightning-fast build tool  
+- 🌌 **Three.js** – Powerful 3D JavaScript library  
+- 🎨 **@react-three/fiber** – React renderer for Three.js  
+- 💨 **Tailwind CSS** – Utility-first CSS for responsive design
 
 ---
 
-## 📸 Features
+## ✨ Features
 
-- 3D animated background and models
-- Smooth scroll and section-based navigation
-- Project gallery with descriptions
-- Contact form / Social media links
+- 🎥 Interactive 3D models and scenes
+- 📜 Smooth scroll-based navigation
+- 🧩 Project showcase with descriptions
+- 📱 Fully responsive layout
+- 📬 Contact form with social links
 
 ---
 
-🌍 Live Demo
-🔗 Visit my live portfolio
+## 🌍 Live Demo
 
+🔗 **[Click to view my live portfolio](https://anisha-portfolio-o2nbfto4v-anisha-kumaris-projects.vercel.app/)**  
+Deployed on [Vercel](https://vercel.com/)
+
+---
 
 ## 🖼️ Screenshots
 
-### (Desktop View)
-![Homepage](<img width="1884" height="819" alt="image" src="https://github.com/user-attachments/assets/c13fce18-5a5d-4fec-9437-443900b6ef53" />)
+### 💻 Desktop View – Homepage  
+![Homepage](https://github.com/user-attachments/assets/c13fce18-5a5d-4fec-9437-443900b6ef53)
 
-![Overview](<img width="1172" height="790" alt="image" src="https://github.com/user-attachments/assets/76f9aca5-6a65-4016-ae9c-c9f234d92bec" />)
+### 📌 Overview Section  
+![Overview](https://github.com/user-attachments/assets/76f9aca5-6a65-4016-ae9c-c9f234d92bec)
 
-![Education & Technologies](<img width="1039" height="801" alt="image" src="https://github.com/user-attachments/assets/5f243ad5-6501-48aa-810e-9a18d50d66c5" />)
+### 🎓 Education & Technologies  
+![Education & Technologies](https://github.com/user-attachments/assets/5f243ad5-6501-48aa-810e-9a18d50d66c5)
 
-![Contact](<img width="1192" height="813" alt="image" src="https://github.com/user-attachments/assets/75271fef-dc5f-4f95-a96b-a44c2869fee1" />)
+### 📫 Contact Section  
+![Contact](https://github.com/user-attachments/assets/75271fef-dc5f-4f95-a96b-a44c2869fee1)
+
+---
+
+## 👩‍💻 About Me
+
+I'm **Anisha Kumari**, a CSIT undergrad with a passion for web development, artificial intelligence, and crafting unique digital experiences. I enjoy blending design with interactivity through code.
+
+---
+
+## 📬 Contact
+
+- 📧 Email: *anishabrnwl@gmail.com*
+- 🔗 LinkedIn: [linkedin.com/in/your-profile]([https://www.linkedin.com/in/anisha-kumari82])
+- 🌐 Portfolio: [anisha-portfolio.vercel.app](https://anisha-portfolio-o2nbfto4v-anisha-kumaris-projects.vercel.app/)
+
+---
+
+## ⭐ Show your support
+
+If you like this project, please give it a ⭐ on GitHub and share your thoughts!
 
 
 
@@ -50,4 +77,5 @@ A visually immersive and interactive 3D personal portfolio website built using *
 
 
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+
