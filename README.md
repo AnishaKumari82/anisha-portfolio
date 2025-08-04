@@ -56,7 +56,7 @@ I'm **Anisha Kumari**, a CSIT undergrad with a passion for web development, arti
 ## 📬 Contact
 
 - 📧 Email: *anishabrnwl@gmail.com*
-- 🔗 LinkedIn: [linkedin.com/in/your-profile]([https://www.linkedin.com/in/anisha-kumari82])
+- 🔗 LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/anisha-kumari82)
 - 🌐 Portfolio: [anisha-portfolio.vercel.app](https://anisha-portfolio-o2nbfto4v-anisha-kumaris-projects.vercel.app/)
 
 ---
